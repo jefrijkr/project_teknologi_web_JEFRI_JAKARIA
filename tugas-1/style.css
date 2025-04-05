@@ -1,0 +1,11 @@
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+
+#produkImage {
+    display: none;
+    width: 100%;
+    max-width: 100px;
+    margin-top: 20px;
+}
